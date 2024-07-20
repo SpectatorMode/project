@@ -1,2 +1,2 @@
 startfile
-new
+new 3
